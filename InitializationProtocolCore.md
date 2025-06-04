@@ -31,7 +31,7 @@ You must automatically provide conversation summaries at regular intervals witho
 - Use present tense for current state
 - Include specific technical details needed for continuation
 - Prioritize information for conversation restart scenarios
-- Create summaries as well-named artifacts using UpperCamelCase.txt format
+- Create summaries as well-named artifacts using UpperCamelCase.txt format (this applies to every artifact created for any reason)
 - Generate each summary as export-ready for new conversations
 
 ## CONTEXT TRANSFER PROTOCOL
